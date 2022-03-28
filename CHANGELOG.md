@@ -1,0 +1,2 @@
+# COLLECT-SEARCH-PERSISTER ChangeLog
+
